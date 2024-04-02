@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Jeannette 👋
+- 🌱 Rooted in fashion, branching out in tech.
+- 📖 I spend my days immersed in the digital realm.
+- ⚡ Bridging the worlds of 3D design and web development.
+- 🧠 Currently on a learning spree with Next.js, Spline and Substance 3D Painter.
+- 😄 Part of an indie dev team based in Toronto.
 
 <!--
 **jnettek/jnettek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
